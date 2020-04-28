@@ -1,0 +1,9 @@
+object _main: T_main
+  Left = 2139
+  Height = 572
+  Top = 177
+  Width = 772
+  Caption = '_main'
+  FormStyle = fsMDIForm
+  LCLVersion = '2.0.8.0'
+end
